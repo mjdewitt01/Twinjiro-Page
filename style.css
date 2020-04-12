@@ -1,0 +1,53 @@
+body { 
+	background-image:url('BG.gif'); background-repeat:repeat; 
+	background-color: #490000
+}
+.topnav {
+  background-color: black;
+  overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 36px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #490000;
+  color: white;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: #0B9B5B;
+  color: white;
+}
+a {
+ text-decoration: none;
+ display: inline-block;
+ padding: 8px 16px;
+}
+
+a:hover {
+ background-color: white;
+ color: #031124;
+}
+
+.previous {
+ background-color:black ;
+ color: #0B9B5B;
+ float: left;
+ font-size: 36px;
+}
+.next {
+ float: right;
+ background-color: black;
+ color:  #0B9B5B;
+ font-size: 36px;
+} s
